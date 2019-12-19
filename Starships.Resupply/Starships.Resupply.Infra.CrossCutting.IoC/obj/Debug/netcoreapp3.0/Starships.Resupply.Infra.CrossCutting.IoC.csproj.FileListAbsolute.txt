@@ -1,0 +1,15 @@
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.0\Starships.Resupply.Infra.CrossCutting.IoC.deps.json
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.0\Starships.Resupply.Infra.CrossCutting.IoC.dll
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.0\Starships.Resupply.Infra.CrossCutting.IoC.pdb
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.0\Starships.Resupply.Application.dll
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.0\Starships.Resupply.Domain.dll
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.0\Starships.Resupply.Infra.Data.dll
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.0\Starships.Resupply.Application.pdb
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.0\Starships.Resupply.Domain.pdb
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.0\Starships.Resupply.Infra.Data.pdb
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.0\Starships.Resupply.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.0\Starships.Resupply.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.0\Starships.Resupply.Infra.CrossCutting.IoC.AssemblyInfo.cs
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.0\Starships.Resupply.Infra.CrossCutting.IoC.csproj.CopyComplete
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.0\Starships.Resupply.Infra.CrossCutting.IoC.dll
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.0\Starships.Resupply.Infra.CrossCutting.IoC.pdb

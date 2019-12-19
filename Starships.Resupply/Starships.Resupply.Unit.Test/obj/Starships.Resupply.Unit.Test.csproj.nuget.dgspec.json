@@ -1,0 +1,217 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Unit.Test\\Starships.Resupply.Unit.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Application\\Starships.Resupply.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Application\\Starships.Resupply.Application.csproj",
+        "projectName": "Starships.Resupply.Application",
+        "projectPath": "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Application\\Starships.Resupply.Application.csproj",
+        "packagesPath": "C:\\Users\\Victor Cavichiolli\\.nuget\\packages\\",
+        "outputPath": "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Victor Cavichiolli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Domain\\Starships.Resupply.Domain.csproj": {
+                "projectPath": "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Domain\\Starships.Resupply.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Domain\\Starships.Resupply.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Domain\\Starships.Resupply.Domain.csproj",
+        "projectName": "Starships.Resupply.Domain",
+        "projectPath": "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Domain\\Starships.Resupply.Domain.csproj",
+        "packagesPath": "C:\\Users\\Victor Cavichiolli\\.nuget\\packages\\",
+        "outputPath": "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Victor Cavichiolli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Unit.Test\\Starships.Resupply.Unit.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Unit.Test\\Starships.Resupply.Unit.Test.csproj",
+        "projectName": "Starships.Resupply.Unit.Test",
+        "projectPath": "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Unit.Test\\Starships.Resupply.Unit.Test.csproj",
+        "packagesPath": "C:\\Users\\Victor Cavichiolli\\.nuget\\packages\\",
+        "outputPath": "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Unit.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Victor Cavichiolli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Application\\Starships.Resupply.Application.csproj": {
+                "projectPath": "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Application\\Starships.Resupply.Application.csproj"
+              },
+              "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Domain\\Starships.Resupply.Domain.csproj": {
+                "projectPath": "D:\\cavicchiolli-projects\\starships-resupply\\Starships.Resupply\\Starships.Resupply.Domain\\Starships.Resupply.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[28.4.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

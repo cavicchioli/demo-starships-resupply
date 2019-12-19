@@ -1,0 +1,11 @@
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.Data\bin\Debug\netcoreapp3.0\Starships.Resupply.Infra.Data.deps.json
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.Data\bin\Debug\netcoreapp3.0\Starships.Resupply.Infra.Data.dll
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.Data\bin\Debug\netcoreapp3.0\Starships.Resupply.Infra.Data.pdb
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.Data\bin\Debug\netcoreapp3.0\Starships.Resupply.Domain.dll
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.Data\bin\Debug\netcoreapp3.0\Starships.Resupply.Domain.pdb
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.Data\obj\Debug\netcoreapp3.0\Starships.Resupply.Infra.Data.csprojAssemblyReference.cache
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.Data\obj\Debug\netcoreapp3.0\Starships.Resupply.Infra.Data.AssemblyInfoInputs.cache
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.Data\obj\Debug\netcoreapp3.0\Starships.Resupply.Infra.Data.AssemblyInfo.cs
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.Data\obj\Debug\netcoreapp3.0\Starships.Resupply.Infra.Data.csproj.CopyComplete
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.Data\obj\Debug\netcoreapp3.0\Starships.Resupply.Infra.Data.dll
+D:\cavicchiolli-projects\starships-resupply\Starships.Resupply\Starships.Resupply.Infra.Data\obj\Debug\netcoreapp3.0\Starships.Resupply.Infra.Data.pdb
