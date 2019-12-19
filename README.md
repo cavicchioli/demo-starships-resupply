@@ -1,4 +1,3 @@
-# starships-resupply
 <h1 align="center">Welcome to Starships Resupply 👋</h1>
 
 ## 🚀 Usage
