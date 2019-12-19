@@ -28,7 +28,7 @@ Feel free to check [issues page](https://github.com/cavicchioli/starships-resupp
 👤 **Victor Cavichiolli**
 
 - LinkedIn: [@victorcavichiolli](https://www.linkedin.com/in/victorcavichiolli)
-- Github: [@kefranabg](https://github.com/cavicchioli)
+- Github: [@cavicchioli](https://github.com/cavicchioli)
 
 ## Show your support
 
